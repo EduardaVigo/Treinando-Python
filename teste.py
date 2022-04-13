@@ -1,3 +1,4 @@
-x = input("Valor:")
-print(x)
-print("Acaba aqui")
+i = 0
+while i<100:
+    print(i)
+    i = i+1

@@ -1,0 +1,24 @@
+aux = input("Digite um número: ")
+
+n = int (aux)
+i = 1
+print("{} x {} = {}".format (n, i, (n*i)))
+i= i + 1
+print("{} x {} = {}".format (n, i, (n*i)))
+i= i + 1
+print("{} x {} = {}".format (n, i, (n*i)))
+i= i + 1
+print("{} x {} = {}".format (n, i, (n*i)))
+i= i + 1
+print("{} x {} = {}".format (n, i, (n*i)))
+i= i + 1
+print("{} x {} = {}".format (n, i, (n*i)))
+i= i + 1
+print("{} x {} = {}".format (n, i, (n*i)))
+i= i + 1
+print("{} x {} = {}".format (n, i, (n*i)))
+i= i + 1
+print("{} x {} = {}".format (n, i, (n*i)))
+i= i + 1
+print("{} x {} = {}".format (n, i, (n*i)))
+i= i + 1
